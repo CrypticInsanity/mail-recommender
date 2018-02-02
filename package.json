@@ -1,0 +1,14 @@
+{
+  "name": "mail-recommender",
+  "version": "1.0.0",
+  "description": "gives suggestions for common email host eg gmail. it will be a plugin for the email input textbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "autcomplete"
+  ],
+  "author": "Tiisetso Tjabane",
+  "license": "MIT"
+}
